@@ -21,25 +21,6 @@ typedef   float f32;
 typedef   double f64;
 
 
-#define HIGH 1
-#define LOW  0
-//-------------
-#define INPUT  0
-#define OUTPUT 1
-//---------------
-#define pin1 0
-#define pin2 1
-#define pin3 2
-#define pin4 3
-#define pin5 4
-#define pin6 5
-#define pin7 6
-#define pin8 7
-//---------------
-#define porta 0
-#define portb 1
-#define portc 2
-#define portd 3
 
 
 #endif

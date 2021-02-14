@@ -1,6 +1,4 @@
 
-#ifndef Functions_H_
-#define Functions_H_
 
 #include <stdio.h>
 #include <conio.h>
@@ -181,6 +179,3 @@ void Display_List(const Student* st, u8 Size)
         printf("---------------------------------\n");
     }
 }
-
-
-#endif
